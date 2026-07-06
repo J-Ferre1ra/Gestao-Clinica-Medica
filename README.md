@@ -23,7 +23,7 @@ O sistema implementa um CRUD (Create, Read, Update, Delete) completo:
 1. Certifique-se de ter o [Node.js](https://nodejs.org/) instalado.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/sistema-gestao-clinica.git](https://github.com/seu-usuario/sistema-gestao-clinica.git)
+   git clone [https://github.com/J-Ferre1ra/Gestao-Clinica-Medica.git](https://github.com/J-Ferre1ra/Gestao-Clinica-Medica.git)
    ```
 3. Navegue até a pasta:
    ```bash
